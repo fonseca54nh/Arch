@@ -1,0 +1,1 @@
+/home/topcat/.local/share/omf/themes/gnuykeaj/fish_prompt.fish
